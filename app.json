@@ -1,12 +1,12 @@
 {
-  "name": "Sample Poe API bot",
+  "name": "7orus",
   "description": "A barebones Poe API bot, which can easily be deployed to Heroku.",
   "image": "heroku/python",
-  "repository": "https://github.com/poe-platform/heroku-sample",
-  "keywords": ["python", "poe"],
+  "repository": "https://github.com/AliMohamed28/GPT3.5",
+  "keywords": ["python", "7orus"],
   "env": {
     "POE_API_KEY": {
-      "description": "API key for your Poe bot.",
+      "description": "C0r2zGn8q5ONmpoh5hFztwTgdIWc7jSp",
       "generator": "secret"
     }
   }
