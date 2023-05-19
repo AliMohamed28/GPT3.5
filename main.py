@@ -27,4 +27,5 @@ POE_API_KEY = "C0r2zGn8q5ONmpoh5hFztwTgdIWc7jSp"
 app = make_app(bot, allow_without_key=False)
 
 if __name__ == "__main__":
-    run(EchoBot())
+    run(EchoBot(), api_key=POE_API_KEY)
+
